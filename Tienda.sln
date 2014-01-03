@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda", "Tienda\Tienda.csproj", "{DB90768E-3FA0-4242-9A57-DEBAD6FAC114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB90768E-3FA0-4242-9A57-DEBAD6FAC114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB90768E-3FA0-4242-9A57-DEBAD6FAC114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB90768E-3FA0-4242-9A57-DEBAD6FAC114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB90768E-3FA0-4242-9A57-DEBAD6FAC114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

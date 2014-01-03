@@ -1,0 +1,10 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Tienda\bin\Debug\Tienda.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tienda\Tienda\bin\Debug\Tienda.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tienda\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tienda\Tienda\bin\Debug\Tienda.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tienda\Tienda\bin\Debug\Tienda.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tienda\Tienda\obj\Debug\Tienda.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tienda\Tienda\obj\Debug\Tienda.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tienda\Tienda\bin\Debug\Tienda.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tienda\Tienda\obj\Debug\Tienda.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tienda\Tienda\obj\Debug\Tienda.pdb
